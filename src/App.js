@@ -8,6 +8,7 @@ import AddProduct from './components/templates/productAdd';
 import EditProduct from './components/templates/editProduct';
 
 import TopNavigationBar from './components/templates/TopNavigationbar';
+<script src="https://unpkg.com/react-next-paging/dist/index.umd.min.js"></script>
 
 class App extends Component {
   render() {
